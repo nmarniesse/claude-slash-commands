@@ -18,8 +18,12 @@ Creates well-formatted commits with conventional commit messages and emoji.
 ## Usage
 
 ```
-/commit
+/commit [custom-instructions]
 ```
+
+## Custom instructions
+
+ $ARGUMENTS
 
 ## Process
 
